@@ -1,4 +1,4 @@
-# PRACTICA 2. MANEJO DE COLECCIONES.
+# PRACTICA 2. MANEJO DE COLECCIONES Y FORMATEO DE VALORES NUMÉRICOS.
 
 ## COPIA DEL REPOSITORIO REMOTO EN SU COMPUTADORA LOCAL
 Como primer paso, será necesario crear una copia local del repositorio remoto creado en Github al aceptar la tarea. Para ello, es necesario hacer los siguientes pasos:
